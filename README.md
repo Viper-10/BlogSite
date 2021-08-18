@@ -19,7 +19,9 @@ URLs implemented :
     GET localhost:8080/users/{id} -> Gets the user with id -> {id}. 
     
    
-h2 database url : 
-    localhost:8080/h2-console
+   
+    h2 database url : localhost:8080/h2-console
     
     datasource url : jdbc:h2:mem:testdb
+    
+    
