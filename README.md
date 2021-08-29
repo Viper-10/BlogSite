@@ -9,7 +9,7 @@ Using Spring boot to implement Restful webservices, and apply HTTP concepts to w
 ## Project Description : 
 The project goes through the important HTTP requests such as GET, POST, DELETE and implements the response for the same following the basic standards. 
 Uses H2 database(an in memory database), Hibernate (JPA specification) and Spring data JPA. Custom exceptions are thrown with proper messages and 
-with appropriate HTTP response status. I18n and versioning are touched as well. 
+with appropriate HTTP response status. I18n and versioning are touched as well.  Spring validation including @NotNull, @NotEmpty, @Valid are included. 
 
 ### URLs implemented : 
 
