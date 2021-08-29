@@ -2,7 +2,6 @@
 
 ## Project Brief : 
 Using Spring boot to implement Restful webservices, and apply HTTP concepts to web projects. 
-*** Hasn't been hosted on the WWW. Install locally to view the implementation.  *** 
 
 /* Use eclipse or STS to clone and view the project */ 
 
