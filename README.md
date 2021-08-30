@@ -1,4 +1,4 @@
-# RestfulWebServiceDemoProject
+# BlogSite
 
 ## Project Brief : 
 Using Spring boot to implement Restful webservices, and apply HTTP concepts to web projects. 
