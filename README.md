@@ -5,6 +5,8 @@ Using Spring boot to implement Restful webservices, and apply HTTP concepts to w
 
 /* Use eclipse or STS to clone and view the project */ 
 
+If you wish to use Intellij, clone and open the pom.xml using the file > open option in Intellij. It'll prompt you with "open as project" option.
+
 ## Project Description : 
 The project goes through the important HTTP requests such as GET, POST, DELETE and implements the response for the same following the basic standards. 
 Uses H2 database(an in memory database), Hibernate (JPA specification) and Spring data JPA. Custom exceptions are thrown with proper messages and 
